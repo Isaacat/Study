@@ -22,3 +22,5 @@ push: 'local repository'의 변경 사항을 'remote repository'로 업로드하
 clone: 'remote repository'의 내용을 전부 다운로드하는 것.
 
 pull: 'remote repository'의 변경 사항을 'local repository'로 업로드하는 행위.
+
+branch: 여러 개발자들이 동시에 다양한 작업을 할 수 있게 만들어주는 것.
